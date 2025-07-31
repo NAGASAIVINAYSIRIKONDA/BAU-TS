@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# BAU-TS
-Bau TS - Vinay 
-=======
 # Welcome to your Lovable project
 
 ## Project info
@@ -75,4 +71,3 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
->>>>>>> 0d6a8a9 (Initial commit: pushing BAU project to GitHub)
